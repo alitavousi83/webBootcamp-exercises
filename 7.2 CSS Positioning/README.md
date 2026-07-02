@@ -20,7 +20,7 @@
 
 # 🎯 goal
 
-![Page 01](/webBootcamp-exercises/7.2%20CSS%20Positioning/goal.png)
+![Page 01](/7.2%20CSS%20Positioning/goal.png)
 
 🔴 circle : 200px  * 200px 
 
